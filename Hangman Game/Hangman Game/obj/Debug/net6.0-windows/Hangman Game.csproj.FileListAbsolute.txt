@@ -1,0 +1,18 @@
+H:\Visual Studio 2022\Hangman Game\Hangman Game\bin\Debug\net6.0-windows\Hangman Game.exe
+H:\Visual Studio 2022\Hangman Game\Hangman Game\bin\Debug\net6.0-windows\Hangman Game.deps.json
+H:\Visual Studio 2022\Hangman Game\Hangman Game\bin\Debug\net6.0-windows\Hangman Game.runtimeconfig.json
+H:\Visual Studio 2022\Hangman Game\Hangman Game\bin\Debug\net6.0-windows\Hangman Game.dll
+H:\Visual Studio 2022\Hangman Game\Hangman Game\bin\Debug\net6.0-windows\Hangman Game.pdb
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman_Game.Form1.resources
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman_Game.Resource1.resources
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.AssemblyInfo.cs
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.dll
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\refint\Hangman Game.dll
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.pdb
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\Hangman Game.genruntimeconfig.cache
+H:\Visual Studio 2022\Hangman Game\Hangman Game\obj\Debug\net6.0-windows\ref\Hangman Game.dll
